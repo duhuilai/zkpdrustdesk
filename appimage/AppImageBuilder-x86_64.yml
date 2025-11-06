@@ -16,9 +16,9 @@ AppDir:
   path: ./AppDir
   app_info:
     id: rustdesk
-    name: rustdesk
+    name: podtdesk
     icon: rustdesk
-    version: 1.4.3
+    version: 1.0.0
     exec: usr/share/rustdesk/rustdesk
     exec_args: $@
   apt:
