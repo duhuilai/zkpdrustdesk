@@ -6562,7 +6562,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "poddesk"
+name = "rustdesk"
 version = "1.0.0"
 dependencies = [
  "android-wakelock",

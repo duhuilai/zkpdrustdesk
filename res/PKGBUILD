@@ -1,4 +1,4 @@
-pkgname=poddesk
+pkgname=rustdesk
 pkgver=1.0.0
 pkgrel=0
 epoch=

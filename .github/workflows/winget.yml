@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: vedantmgoyal9/winget-releaser@main
         with:
-          identifier: RustDesk.RustDesk
+          identifier: rustdesk.rustdesk
           version: "1.0.0"
           release-tag: "1.0.0"
           token: ${{ secrets.WINGET_TOKEN }}
